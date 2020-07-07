@@ -1,6 +1,6 @@
 package basics;
 
-public class OverRide extends Overload{
+public class Polymorphism_OverRide extends Polymorphism_Overload{
 
 	void studentId(int id) {
 		System.out.println("Over Ride Integer is : " + id);

@@ -1,6 +1,6 @@
 package basics;
 
-public class Overload {
+public class Polymorphism_Overload {
 	void studentId(int id) {
 		System.out.println("Overload Integer is : " + id);
 	}
