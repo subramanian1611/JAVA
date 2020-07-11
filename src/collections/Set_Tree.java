@@ -43,5 +43,8 @@ public class Set_Tree {
 	
 		ex.clear();
 		System.out.println("list after clear :"+ex);
+		
+		ex.add(100000);
+		System.out.println("list after clear :"+ex);
 	}
 }
